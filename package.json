@@ -19,6 +19,6 @@
     "multer": "^1.4.3",
     "nodemon": "^2.0.12",
     "swagger-autogen": "^2.6.3",
-    "swagger-ui-express": "^4.1.4"
+    "swagger-ui-express": "^4.2.0"
   }
 }
